@@ -135,7 +135,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 
   - [x] TODO: assign to the three instance variables.
   - [x] TODO: have prepareSuccessView update the LoggedInState
-  - [ ] TODO: have prepareSuccessView update the LoginState
+  - [X] TODO: have prepareSuccessView update the LoginState
 
 * * *
 
