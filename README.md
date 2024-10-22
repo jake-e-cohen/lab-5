@@ -134,7 +134,7 @@ The TODOs are summarized below (by file) to help your team decide how to split t
 - `LogoutPresenter.java` (tip: refer to `SignupPresenter.java` for similar code)
 
   - [x] TODO: assign to the three instance variables.
-  - [x] TODO: have prepareSuccessView update the LoggedInState
+  - [xg] TODO: have prepareSuccessView update the LoggedInState
   - [X] TODO: have prepareSuccessView update the LoginState
 
 * * *
